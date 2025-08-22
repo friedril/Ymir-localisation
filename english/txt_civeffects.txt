@@ -353,7 +353,7 @@ Officials privileges
 Privileges rate
 
 #civfx_offwlth_setd#1
-the percentage of territory wealth given as a privilege to the State workers
+the percentage of territory wealth given as a privilege to the Officials
 
 #civfx_paidmat_dscr#1
 Resources now have prices and ownership.
