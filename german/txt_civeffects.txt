@@ -1,383 +1,561 @@
-﻿#civfx_inc_n
-Bevölkerungseinkommen
+#civfx_multireg_n#2
+mehrere Städte
 
-#civfx_inc_dscr
-Erschließt dynamischen Bevölkerungsreichtum
+#civfx_multireg_dscr#2
+Erlaubt weiteren regionalen Zentren nebst der Hauptstadt über den Dorfstatus hinauszuwachsen.
 
-#civfx_price_n
-Dynamische Preise
+#civfx_claimrc_n#1
+Beanspruchung regionaler Zentren
 
-#civfx_price_dscr
-Ressourcen und Wertsachen haben dynamische Preise, die auf Angebot und Nachfrage der Bevölkerung basieren.
+#civfx_claimrc_dscr#1
+Erlaubt das fabrizieren von Ansprüchen auf Nicht-Hauptstadt regionale Zentren angrenzender Regionen.
 
-#civfx_autodist_n
-Automatische Verteilung
+#civfx_captlter_n#1
+Territorien der Hauptstadt
 
-#civfx_autodist_dscr
+#civfx_captlter_dscr#1
+Erhöht die Maximale Anzahl an Territorien der Hauptstadt.
+
+#civfx_singlereg_n#1
+Limit auf eine Region
+
+#civfx_singlereg_dscr#1
+Nur ein regionales Zentrum wird gestattet zu besitzen (die Hauptstadt).
+
+#civfx_militsprt_n#1
+Militärunterstützung
+
+#civfx_militsprt_dscr#1
+Modifiziert die militärischen Unterstützungskapazitäten von Gebieten.
+
+#civfx_nationmaintn_n#1
+Untergebenenverwaltung
+
+#civfx_nationmaintn_dscr#1
+Modifiziert die Staatsmacht Verwaltungskkosten deiner Untergebenen in der Nation.
+
+#civfx_autodist_dscr#1
 Alle Ressourcen stehen der gesamten Bevölkerung automatisch zur Verfügung und es besteht kein Bedarf an Distributoren.
 
-#civfx_bdgeff_n
-Gebäudeeffizienz
+#civfx_autodist_n#1
+Automatische Verteilung
 
-#civfx_bdgeff_dscr
+#civfx_bdgeff_dscr#1
 Verändert die Effizienz von Gebäuden
 
-#civfx_conflict_n
-Bevölkerungskonflikt
+#civfx_bdgeff_n#1
+Gebäudeeffizienz
 
-#civfx_conflict_dscr
-Modifiziert den Konflikt der Bevölkerung
+#civfx_waste_n#1
+Verschwendung
 
-#civfx_stress_n
-Bevölkerungsstress
+#civfx_waste_dscr#1
+Beeinflusst Verschwendungsraten in allen Gebieten.
 
-#civfx_stress_dscr
-Modifiziert den Stress der Bevölkerung
+#civfx_bribes_dscr#1
+Geschenke und Bestechungsgelder für die Klasser der Oligarchen, erhöht deren Reichtum und begünstigt deren Unterstützung.
 
-#civfx_paidmat_n
-Bezahlte Materialien
+#civfx_bribes_n#1
+Bestechungsgelder
 
-#civfx_paidmat_dscr
-Der Staat muss für Materialien, die er verbraucht, den aktuellen Marktpreis bezahlen.
+#civfx_bribes_set#2
+Bestechungsgelder pro Oligarch
 
-#civfx_seizem_n
-Beschlagnahmte Materialien
+#civfx_bribes_setd#1
+Der durschnittliche Wert an bezahlten Bestechungsgeldern an jeden Oligarchen.
 
-#civfx_seizem_dscr
-Wenn bezahlte Materialien aktiv sind, werden alle oder ein Teil der Materialien kostenlos beschlagnahmt, anstatt vom Staat bezahlt zu werden.
+#civfx_capadmin_dscr#1
+Modifiziert Verwaltung in der Hauptstadt
 
-#civfx_seizem_set
-Beschlagnahmte Prozent
+#civfx_capadmin_n#1
+Verwaltung der Hauptstadt
 
-#civfx_seizem_setd
-Lege den Prozentsatz der Materialpreise fest, den du beschlagnahmen möchtest.
+#civfx_caplead_dscr#1
+fügt Anführer in Hauptstadt hinzu
 
-#civfx_territ_n
-Provinzgebiete
+#civfx_caplead_n#1
+Anführer
 
-#civfx_territ_dscr
-Städte können andere Gebiete als ihre Provinz annektieren.
+#civfx_capnob_dscr#1
+fügt Oligarchen in der Hauptstadt hinzu
 
-#civfx_inctax_n
-Einkommenssteuer
+#civfx_capnob_n#1
+Oligarchen der Hauptstadt
 
-#civfx_inctax_dscr
-Eine Steuer, die auf alle Einkommen der Bevölkerung im Gebiet erhoben wird.
+#civfx_cityadmin_dscr#1
+Ändert die Verwaltung in jeder Stadt
 
-#civfx_inctax_set
-Einkommensteuerprozentsatz
-
-#civfx_inctax_setd
-Den Prozentsatz des zu versteuernden Einkommens festlegen
-
-#civfx_saltax_n
-Umsatzsteuer
-
-#civfx_saltax_dscr
-Eine auf alle Verkäufe im Gebiet anwendbare Steuer (vereinfachte Mehrwertsteuer)
-
-#civfx_saltax_set
-Umsatzsteuerprozentsatz
-
-#civfx_saltax_setd
-Den Prozentsatz des Umsatzes festlegen, der besteuert werden soll
-
-#civfx_leadwlth_n
-Privilegien für Führungskräfte
-
-#civfx_leadwlth_dscr
-Anführer erhalten einen Teil des Gebietsvermögens als Privileg.
-
-#civfx_leadwlth_set
-Privileg für Führungskräfte
-
-#civfx_leadwlth_setd
-der Prozentsatz des Gebietsvermögens, der den Führern als Privileg gewährt wird.
-
-#civfx_leadsal_n
-Gehalt der Führungskräfte
-
-#civfx_leadsal_dscr
-Führungskräfte erhalten ein vom Staat bezahltes Gehalt.
-
-#civfx_leadsal_set
-Gehalt der Führungskräfte
-
-#civfx_leadsal_setd
-Höhe des Gehalts in Münzen
-
-#civfx_nobwlth_n
-Adel Privilegien
-
-#civfx_nobwlth_dscr
-Adlige erhalten einen Teil des Gebietsvermögens als Privileg.
-
-#civfx_nobwlth_set
-Adelsprivileg
-
-#civfx_nobwlth_setd
-Der Prozentsatz des Gebietsvermögens, der den Adligen als Privileg gewährt wird.
-
-#civfx_nobsal_n
-Nobles Gehalt
-
-#civfx_nobsal_dscr
-Adlige erhalten ein vom Staat bezahltes Gehalt.
-
-#civfx_nobsal_set
-Nobles Gehalt
-
-#civfx_nobsal_setd
-Höhe des Gehalts in Münzen
-
-#civfx_offwlth_n
-Privilegien für Staatsangestellte
-
-#civfx_offwlth_dscr
-Staatsangestellte erhalten einen Teil des Gebietsvermögens als Privileg.
-
-#civfx_offwlth_set
-Privileg für Staatsangestellte
-
-#civfx_offwlth_setd
-der Prozentsatz des Gebietsvermögens, der den Staatsarbeitern als Privileg gewährt wird.
-
-#civfx_offsal_n
-Gehalt der Staatsangestellten
-
-#civfx_offsal_dscr
-Staatsangestellte erhalten ein vom Staat bezahltes Gehalt.
-
-#civfx_offsal_set
-Gehalt der Staatsangestellten
-
-#civfx_offsal_setd
-Höhe des Gehalts in Münzen
-
-#civfx_capadmin_n
-Kapitalverwaltung
-
-#civfx_capadmin_dscr
-Ändert die Verwaltung des Kapitals
-
-#civfx_cityadmin_n
+#civfx_cityadmin_n#1
 Stadtverwaltung
 
-#civfx_cityadmin_dscr
-Ändert die Verwaltung jeder Stadt
+#civfx_comwork_dscr#2
+Prozentualer Anteil an Zeit den Aktive dem Staat in form von Zwangsarbeit schulden, verringert Gebäudeffizienz.
 
-#civfx_regadmin_n
-Gebietsadministration
+#civfx_comwork_n#2
+Zwangsarbeit
 
-#civfx_regadmin_dscr
-Ändert die Verwaltung jedes Gebiets
+#civfx_comwork_set#1
+Zeiteinteilung
 
-#civfx_caplead_n
-Kapitalführer
+#civfx_comwork_setd#2
+Setzt den Anteil an Zeit den Aktive mit Zwangsarbeit verbringen (verringert Gebäudeeffizienz proportional).
 
-#civfx_caplead_dscr
-Führend im Kapital
+#civfx_comworkmod_actv#2
+[x]% an Zwangsarbeit
 
-#civfx_capnob_n
-Hauptadlige
+#civfx_comworkmod_dscr#2
+modifiziert die Effizienz von Zwangsarbeit.
 
-#civfx_capnob_dscr
-Adlige in der Hauptstadt
+#civfx_comworkmod_n#2
+Zwangsarbeit
 
-#civfx_citlead_n
-Stadtführer
+#civfx_conflict_dscr#1
+Modifiziert den Konflikt in der Bevölkerung
 
-#civfx_citlead_dscr
-Leiter pro Stadt
+#civfx_conflict_n#1
+Bevölkerungskonflikt
 
-#civfx_citnob_n
-Stadtadler
-
-#civfx_citnob_dscr
-Adlige pro Stadt
-
-#civfx_reglead_n
-lokale Führungskräfte
-
-#civfx_reglead_dscr
-Leiter pro Gebiet
-
-#civfx_regnob_n
-lokale Adlige
-
-#civfx_regnob_dscr
-Adlige pro Gebiet
-
-#civfx_goldstck_n
-Reichtum an Edelmetallen
-
-#civfx_goldstck_dscr
-Erhöht den Reichtum aller Gebiete für jede Einheit von Edelmetallen (Gold und Silber) in den Lagern.
-
-#civfx_modhap_n
-Bevölkerungsglück
-
-#civfx_modhap_dscr
-Verändert das Glück der Bevölkerung
-
-#civfx_happy_n
-Bevölkerungsglück
-
-#civfx_happy_dscr
-Verändert das Glück der Bevölkerung
-
-#civfx_enmerch_n
-Kaufleute
-
-#civfx_enmerch_dscr
+#civfx_enmerch_dscr#1
 Ermöglicht den Einsatz von Händlern, die Ressourcen an die Bevölkerung verkaufen können.
 
-#civfx_entrout_n
-Handelsrouten
+#civfx_popcltr_n#1
+Kultur der Bevölkerung
 
-#civfx_entrout_dscr
+#civfx_popcltr_dscr#1
+Modifiziert Kultur-Produktion der Bevölkerung
+
+#civfx_poplifeq_n#1
+Lebensqualität der Bevölkerung
+
+#civfx_poplifeq_dscr#1
+Modifiziert die Lebensqualität der Bevölkerung
+
+#civfx_popmurder_n#1
+Mordanteil
+
+#civfx_popmurder_dscr#1
+Verändert den Anteil der Beölkerung der durch Gewalt stirbt pro Generation.
+
+#civfx_author_n#1
+Autorität
+
+#civfx_author_dscr#1
+Modifiziert die Loyalität durch Autorität in allen Gebieten.
+
+#civfx_authortroop_n#1
+Autorität durch Staatstruppen
+
+#civfx_authortroop_dscr#1
+Modifiziert die von Staatstruppen generierte Autorität, die Loyalität beeinflusst, in allen Gebieten.
+
+#civfx_banditextr_n#1
+Erpressung
+
+#civfx_banditextr_dscr#1
+Bevölkerungseinkommen gestohlen oder geraubt von Kriminellen, die Hälfte davon fließt dann in die Staatskasse als 'Steuern'.
+
+#civfx_enmerch_n#1
+Kaufleute
+
+#civfx_entrout_dscr#1
 Ermöglicht die Schaffung permanenter Handelsrouten zwischen den Gebieten
 
-#civfx_legitprt_n
-Volksbeschützer
+#civfx_entrout_n#1
+Handelsrouten
 
-#civfx_legitprt_dscr
-Modifiziert den Legitimitätsfaktor der militärischen Stärke
-
-#civfx_legitw_n
-Führungsüberlegenheit
-
-#civfx_legitw_dscr
-Modifiziert den Legitimitätsfaktor der Überlegenheit des Leiters
-
-#civfx_legitr_n
-Religiosität der Schweine
-
-#civfx_legitr_dscr
-Modifiziert den Legitimitätsfaktor der Religiosität der Schweine.
-
-#civfx_legitp_n
-Macht des Parlaments
-
-#civfx_legitp_dscr
-Modifiziert den Legitimitätsfaktor des Parlaments
-
-#civfx_legitsen_n
-Macht des Senats
-
-#civfx_legitsen_dscr
-Modifiziert den Legitimitätsfaktor des Senats
-
-#civfx_legitm_n
-Macht des Ministeriums
-
-#civfx_legitm_dscr
-Modifiziert den Legitimitätsfaktor des Dienstes
-
-#civfx_legitap_n
-Zustimmung des Volkes
-
-#civfx_legitap_dscr
-Modifiziert den Legitimitätsfaktor der Zustimmung der Schweine.
-
-#civfx_wlegitprt_n
-Bedeutung der militärischen Stärke
-
-#civfx_wlegitprt_dscr
-Wie stark militärische Stärke die Legitimität beeinflusst.
-
-#civfx_wlegitw_n
-Bedeutung der Überlegenheit des Leiters
-
-#civfx_wlegitw_dscr
-Wie sehr die Überlegenheit der Führungskraft die Legitimität beeinflusst.
-
-#civfx_wlegitr_n
-Bedeutung der Religiosität
-
-#civfx_wlegitr_dscr
-Wie sehr die Religiosität der Schweine die Legitimität beeinflusst.
-
-#civfx_wlegitp_n
-Bedeutung des Parlaments
-
-#civfx_wlegitp_dscr
-wie sehr die Macht des Parlaments die Legitimität beeinflusst.
-
-#civfx_wlegitsen_n
-Bedeutung des Senats
-
-#civfx_wlegitsen_dscr
-Wie sehr die Macht des Senats die Legitimität beeinflusst.
-
-#civfx_wlegitm_n
-Bedeutung des Ministeriums
-
-#civfx_wlegitm_dscr
-Wie sehr die Macht des Ministeriums die Legitimität beeinflusst.
-
-#civfx_wlegitap_n
-Bedeutung der Zustimmung der Schweine
-
-#civfx_wlegitap_dscr
-Wie viel die Zustimmung der Schweine die Legitimität beeinflusst.
-
-#civfx_statepow_n
-Staatsmacht
-
-#civfx_statepow_dscr
-Andert die Höhe der Staatsgewalt.
-
-#civfx_foodcons_n
-Nahrungsmittelkonsum
-
-#civfx_foodcons_dscr
+#civfx_foodcons_dscr#1
 Beeinflusst die Menge an Lebensmitteln, die die Porcos benötigen, um ihren Bedarf an Lebensmitteln zu decken.
 
-#civfx_coin_n
-Staatskasse
+#civfx_foodcons_n#1
+Nahrungsmittelkonsum
 
-#civfx_coin_dscr
-ermöglicht es dem Staat, Geld zu verdienen und auszugeben.
+#civfx_goldstck_dscr#1
+Erhöht den Reichtum aller Gebiete für jede Einheit von Edelmetallen (Gold und Silber) in den Lagern.
 
-#civfx_agrisav_n
-Vorratssamen
+#civfx_goldstck_n#1
+Reichtum durch wertvolle Edelmetalle
 
-#civfx_agrisav_dscr
-25% der gesamten landwirtschaftlichen Nahrungsmittelproduktion gehen direkt in die Speicher.
+#civfx_happy_dscr#1
+Verändert die Zufriedenheit der Bevölkerung
 
-#civfx_subv_n
-Subvention
+#civfx_happy_n#1
+Bevölkerungszufriedenheit
 
-#civfx_subv_dscr
-Eine staatliche Unterstützung für jeden Arbeiter einer bestimmten sozialen Schicht, um sein Einkommen zu erhöhen.
+#civfx_inc_dscr#1
+Schaltet dynamischen Bevölkerungsreichtum frei
 
-#civfx_subv_set1
-Subvention
+#civfx_inc_n#1
+Bevölkerungseinkommen
 
-#civfx_subv_set1d
-Die soziale Schicht, die diese Subvention erhält.
+#civfx_inctax_dscr#1
+Eine Steuer, die auf alle Einkommen der Bevölkerung im Gebiet erhoben wird.
 
-#civfx_subv_set2
-Münzen
+#civfx_inctax_n#1
+Einkommenssteuer
 
-#civfx_subv_set2d
-Der Betrag der Subvention. Jeder Arbeiter dieser Klasse erhält diese Menge an Münzen, die zu seinem Einkommen hinzugefügt werden.
+#civfx_inctax_set#1
+Einkommensteuerprozentsatz
 
-#civfx_paidrsrch_n
-Bezahlte Forscher
+#civfx_inctax_setd#1
+Legt den Prozentsatz des zu versteuernden Einkommens fest
 
-#civfx_paidrsrch_dscr
+#civfx_ldcntrb_actv#1
+[x]% des persönlichen Beitrag des Anführers
+
+#civfx_ldcntrb_dscr#1
+Der Anführer kann mit seinem eigenen Vermögen zu den Finanzen der Regierung beitragen (reduziert sein Vermögen).
+
+#civfx_ldcntrb_n#1
+Persönlicher Beitrag des Anführers
+
+#civfx_ldcntrb_set#1
+Beitragsrate
+
+#civfx_ldcntrb_setd#1
+Prozentsatz des Vermögens des Anührers, der für die Finanzen der Regierung verwendet wird (Beachte, dass dies den Reichtum des Anführers proportional reduziert).
+
+#civfx_leadsal_dscr#1
+Der Anführer erhält ein vom Staat bezahltes Gehalt.
+
+#civfx_leadsal_n#1
+Gehalt des Anführers
+
+#civfx_leadsal_set#1
+Gehalt des Anführers
+
+#civfx_leadsal_setd#1
+Höhe des Gehalts in Münzen
+
+#civfx_leadwlth_actv#1
+[x]% an Anführerprivilegien
+
+#civfx_leadwlth_dscr#1
+Der Anführer erhalten einen Teil des Gebietsvermögens als Privileg.
+
+#civfx_leadwlth_n#1
+Privilegien des Anführers
+
+#civfx_leadwlth_set#1
+Privilegienrate
+
+#civfx_leadwlth_setd#1
+Der Prozentsatz des Gebietsvermögens, der dem Anführer als Privileg gewährt wird.
+
+#civfx_legitolig_dscr#1
+Die Menge an Macht und Unterstützung der Oligarchen.
+
+#civfx_legitolig_n#1
+Unterstützung durch Oligarchen
+
+#civfx_legitpop_dscr#1
+Wie sehr die Schweine die aktuelle Regierung befürworten.
+
+#civfx_legitpop_n#1
+Befürwortung der Bevölerung
+
+#civfx_legitprt_dscr#1
+Modifiziert den Legitimitätsfaktor der militärischen Stärke.
+
+#civfx_legitprt_n#1
+Volksbeschützer
+
+#civfx_legitr_dscr#1
+Modifiziert den Legitimitätsfaktor durch Religion.
+
+#civfx_legitr_n#1
+Religiöse Unterstützung
+
+#civfx_legitrep_dscr#1
+Die Menge an Macht und Unterstützung der Vertreter der Schweine.
+
+#civfx_legitrep_n#1
+Unterstützung der Volksvertreter
+
+#civfx_legitw_dscr#1
+Wie sehr die Überlegenheit des Anführers die Legitimität beeinflusst.
+
+#civfx_legitw_n#1
+Überlegenheit des Anführers
+
+#civfx_modhap_dscr#1
+Modifiziert Zufriedenheit der Bevölkerung
+
+#civfx_modhap_n#1
+Bevölkerungszufriedenheit
+
+#civfx_nobsal_dscr#1
+Oligarchen erhalten ein vom Staat bezahltes Gehalt.
+
+#civfx_nobsal_n#1
+Gehalt der Oligarchen
+
+#civfx_nobsal_set#1
+Gehalt
+
+#civfx_nobsal_setd#1
+Höhe des Gehalts in Münzen
+
+#civfx_nobwlth_actv#1
+[x]% Privilegien für Oligarchen
+
+#civfx_nobwlth_dscr#1
+Oligarchen erhalten einen Teil des Gebietsvermögens als Privileg.
+
+#civfx_nobwlth_n#1
+Privilegien der Oligarchen
+
+#civfx_nobwlth_set#1
+Privilegienrate
+
+#civfx_nobwlth_setd#1
+Der Prozentsatz des Gebietsvermögens, der den Adligen als Privileg gewährt wird.
+
+#civfx_nomoney_dscr#1
+Es gibt keine Form von aufbewahrbarem Geld.
+
+#civfx_nomoney_n#1
+kein Geld
+
+#civfx_offsal_dscr#1
+Beamte erhalten ein direkt vom Staat bezahltes Gehalt.
+
+#civfx_offsal_n#2
+Gehalt der Beamten
+
+#civfx_offsal_set#1
+Gehalt der Beamten
+
+#civfx_offsal_setd#2
+Lohn der an Beamte des Staates bezahlt wird
+
+#civfx_statesal_dscr#1
+All population classes of State workers get a salary paid directly by the government.
+Alle Bevölkerungsklassen an Staatsangestellten erhaten ein direkt vom Staat bezahltes Gehalt.
+
+#civfx_statesal_n#2
+Gehälter der Staatsangestellten
+
+#civfx_statesal_set#1
+Gehalt der Staatsangestellten
+
+#civfx_statesal_setd#2
+Gehalt, das an jeden regulären Staatsangestellten bezahlt wird (an alle außer Beamten)
+
+#civfx_offwlth_dscr#2
+Beamte erhalten einen Teil des Gebietsvermögens als Privileg.
+
+#civfx_offwlth_n#2
+Privilegien für Beamte
+
+#civfx_offwlth_actv#1
+[x]% an Beamtenprivilegien
+
+#civfx_offwlth_set#2
+Privilegienrate
+
+#civfx_offwlth_setd#1
+der Prozentsatz des Gebietsvermögens, der den Beamten als Privileg gewährt wird.
+
+#civfx_paidmat_dscr#1
+Ressourcen haben nun Preise und einen Besitzer. Der Staat muss für Materialien, die er verbraucht und die der Bevölkerung gehören, den aktuellen Marktpreis bezahlen.
+
+#civfx_paidmat_n#1
+Bezahlte Materialien
+
+#civfx_paidrsrch_dscr#1
 Forscher werden bezahlt und reduzieren nicht mehr die Arbeitskräfte in den Gebäuden, in denen sie arbeiten.
 
-#civfx_ldcntrb_n
-Persönlicher Beitrag des Leiters
+#civfx_paidrsrch_n#1
+Bezahlte Forscher
 
-#civfx_ldcntrb_dscr
-Der Führer kann mit seinem eigenen Vermögen zu den Finanzen der Regierung beitragen (reduziert sein Vermögen).
+#civfx_price_dscr#1
+Ressourcen und Wertsachen haben dynamische Preise basierend auf Angebot und Nachfrage der Bevölkerung.
 
-#civfx_ldcntrb_set
-Beitrag %
+#civfx_price_n#1
+Dynamische Preise
 
-#civfx_ldcntrb_setd
-Prozentsatz des Vermögens des Führers, der für die Finanzen der Regierung verwendet wird. Beachte, dass dies den Reichtum des Anführers proportional reduziert.
+#civfx_prodtax_dscr#2
+Ein Anteil aller produzierten Agrargüter und Tiere wird vom Staat beschlagnahmt als eine Steuer.
+
+#civfx_prodtax_n#1
+Agrarabgaben
+
+#civfx_prodtax_set#1
+Beschlagnahmte Produktion
+
+#civfx_prodtax_setd#1
+Setzt den Prozentsatz an produzierten Ressourcen (Agrargüter & Tiere) der vom Staat beschlagnahmt wird.
+
+#civfx_regadmin_dscr#1
+Ändert die Verwaltung jedes Gebiets
+
+#civfx_regadmin_n#1
+Gebietsadministration
+
+#civfx_regnob_dscr#1
+fügt Oligarchen in jedem Regionalen Zentrum hinzu.
+
+#civfx_regnob_n#1
+regionale Oligarchen
+
+#civfx_rescons_dscr#1
+Ressourcen, die von deiner Bevölkerung kulturell aufgenommen wurden:
+
+#civfx_rescons_n#1
+Konsum von [x]
+
+#civfx_saltax_dscr#1
+Eine auf alle Verkäufe im Gebiet angewandte Steuer (vereinfachte Mehrwertsteuer)
+
+#civfx_saltax_n#1
+Umsatzsteuer
+
+#civfx_saltax_set#1
+Umsatzsteuerprozentsatz
+
+#civfx_saltax_setd#1
+Legt den Prozentsatz der Verkäufe fest, der als Steuer abzugeben ist.
+
+#civfx_seizem_dscr#1
+Wenn bezahlte Materialien aktiv ist, werden alle oder ein Teil der Materialien kostenlos beschlagnahmt, anstatt vom Staat bezahlt zu werden.
+
+#civfx_seizem_n#1
+Beschlagnahmte Materialien
+
+#civfx_seizem_set#1
+Beschlagnahmter Prozentsatz
+
+#civfx_seizem_setd#1
+Legt den Prozentsatz der Materialpreise fest, den du beschlagnahmen möchtest.
+
+#civfx_statepow_n#1
+Staatsmacht
+
+#civfx_statepow_dscr#1
+Andert die Höhe der Staatsmacht.
+
+#civfx_expanpt_n#1
+Ausbreitungspunkte
+
+#civfx_expanpt_dscr#1
+Modifiziert die Menge der Ausbreitungspunkte
+
+#civfx_stress_dscr#1
+Modifiziert den Stress der Bevölkerung
+
+#civfx_stress_n#1
+Bevölkerungsstress
+
+#civfx_subv_actv#1
+Subvention von [y] Münzen für [x]
+
+#civfx_subv_dscr#1
+Eine staatliche Unterstützung für jeden Arbeiter einer bestimmten sozialen Klasse, um sein Einkommen zu erhöhen.
+
+#civfx_subv_n#1
+Subvention
+
+#civfx_subv_set1#1
+Subventionierte Klasse
+
+#civfx_subv_set1d#1
+Die soziale Klasse, die diese Subvention erhält.
+
+#civfx_subv_set2#1
+Subventionshöhe in Münzen
+
+#civfx_subv_set2d#1
+Der Betrag der Subvention. Jeder Arbeiter dieser Klasse erhält diese Menge an Münzen, die zu seinem Einkommen hinzugefügt werden.
+
+#civfx_territ_dscr#1
+Städte können andere Gebiete als ihre Provinz annektieren.
+
+#civfx_territ_n#1
+Provinzgebiete
+
+#civfx_treasury_dscr#1
+Die Schatzkammer des Staates und die Privateigentümer des Anführers sind nun zwei verschiedene Dinge.
+
+#civfx_treasury_n#1
+finanzielle Trennung
+
+#civfx_wlegitolig_dscr#1
+Wie der Unterstützungsfaktor der Oligarchen Legitimität beeinflusst.
+
+#civfx_wlegitolig_n#1
+Bedeutung der Oligarchen
+
+#civfx_wlegitpop_dscr#1
+Wie der Zustimmungsfaktor der Schweine Legitimität beiinflusst.
+
+#civfx_wlegitpop_n#1
+Bedeutung der Zustimmung der Schweine
+
+#civfx_wlegitprt_dscr#1
+Wie stark militärische Stärke die Legitimität beeinflusst.
+
+#civfx_wlegitprt_n#1
+Bedeutung der militärischen Stärke
+
+#civfx_wlegitr_dscr#1
+Wie sehr die religiöse Unterstützung die Legitimität beeinflusst.
+
+#civfx_wlegitr_n#1
+Bedeutung von Religion
+
+#civfx_wlegitrep_dscr#1
+Wie sehr der Unterstützungsfaktor der Vertreter Legitimität beeinflusst.
+
+#civfx_wlegitrep_n#1
+Bedeutung des Einflusses der Vertreter
+
+#civfx_wlegitw_dscr#1
+Wie sehr die Überlegenheit des Anführers die Legitimität beeinflusst
+
+#civfx_wlegitw_n#1
+Bedeutung der Überlegenheit des Anführers
+
+#traitfx_resprod_dscr#1
+Die erste Stufe erlaubt Produktion wund weitere Stufen verbessern Produktionseffizienz und reduzieren Rohstoffkosten falls relevant.
+
+#traitfx_resprod_n#1
+Produktionsstufe
+
+#traitfx_resqual_dscr#1
+Verbessert die grundlegende Produktionsqualität der Ressource.
+
+#traitfx_resqual_n#1
+Qualitätsstufe
+
+#civfx_subormntn_n#1
+Untergebenen-Verwaltungskosten
+
+#civfx_subormntn_dscr#1
+Modifiziert die Staatsmacht-Verwaltungskosten dafür, Untergebene in der Nation zu haben.
+
+#civfx_leadcntrbmod_n#1
+Anführerbeiträge
+
+#civfx_leadcntrbmod_dscr#1
+Modifiziert die Menge an durch den Reichtum des Anführers eingenommenen Münzen
+
+#civfx_leadcntrbmod_actv#1
+Anführerbeiträge [x]%
+
+#civfx_prvlgmalus_n#1
+Toleranz für Privilegien
+
+#civfx_prvlgmalus_dscr#1
+Modifiziert den Loyalitätsmalus, der in Gebieten durch Privilegien verursacht wird.
+
+#civfx_prvlgmalus_actv#1
+Privilegien-Loyalitätsmalus [x]%
+
+#civfx_flabmalus_n#1
+Toleranz für Zwangsarbeit
+
+#civfx_flabmalus_dscr#1
+Modifiziert den Loyalitätsmalus, der in Gebieten durch Zwangsarbeit verursacht wird.
+
+#civfx_flabmalus_actv#1
+Zwangsarbeit-Loyalitätsmaluss [x]%
