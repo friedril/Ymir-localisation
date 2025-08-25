@@ -1,156 +1,280 @@
-﻿#civ_gifteco_n
-Geschenke-Wirtschaft
+#civ_aristo_dscr#1
+Oliagarchentum wird als offizielles Geburtsrecht zementiert, das mit Privilegiennkommt und vererbt wird, so dass der Status von Oligarchenfamilien gesichert wird.
 
-#civ_gifteco_dscr
-Eine Börsenform, bei der Wertsachen nicht gehandelt oder verkauft werden, sondern ohne ausdrückliche Vereinbarung für sofortige oder zukünftige Belohnungen gegeben werden.
+#civ_aristo_n#1
+Aristokratie
 
-#civ_fairxchang_n
-Fairer Austausch
+#civ_bandsociety_dscr#1
+Die einfachste Form von Gesellschaft, mit lockerer Organisation und informeller Führung.
 
-#civ_fairxchang_dscr
-Sofortiger und gegenseitiger Austausch von gleichwertigen Wertsachen.
+#civ_bandsociety_n#1
+Bandgesellschaft
 
-#civ_currency_n
-Währung
-
-#civ_currency_dscr
-Ist eine wertvolle Referenz für den Austausch und dient als Einheit für die Wertbestimmung.
-
-#civ_coinage_n
-Münzwesen
-
-#civ_coinage_dscr
+#civ_coinage_dscr#1
 Eine staatlich zertifizierte Währung.
 
-#civ_repmoney_n
-Repräsentatives Geld
+#civ_coinage_n#1
+Münzwesen
 
-#civ_repmoney_dscr
-Eine Währung, die einen Anspruch auf eine Ware darstellt, anstatt eine Ware an sich zu sein.
+#civ_comgood_dscr#1
+"Wir sind das Volk."
 
-#civ_bandsociety_n
-Band Gesellschaft
+#civ_comgood_n#1
+Von der Gemainschaft
 
-#civ_bandsociety_dscr
-Die einfachste Form der Gesellschaft, mit lockerer Organisation und informeller Führung.
+#civ_comwork_dscr#2
+Alle Aktiven schulden dem Staat einen Teil ihrer Zeit als Zwangsarbeit.
 
-#civ_leadership_n
-Führung
+#civ_comwork_n#2
+Zwangsarbeit
 
-#civ_leadership_dscr
-Ein anerkannter Anführer, der sie alle regiert.
+#civ_council_dscr#1
+Ein Rat von vertraunswürdigen Beratern, die den Anführer in Regierungsangelegenheiten unterstützen und so die Verwaltung des Staates verbessern.
 
-#civ_localchief_n
-Lokale Behörden
+#civ_council_n#1
+Rat
 
-#civ_localchief_dscr
-Lokale territoriale Häuptlinge, die ihr einzelnes Territorium regieren und die Befehle der Zentralmacht ausführen.
+#civ_court_dscr#1
+Die Einrichtung eines Hofes, der Untergebene und Vasallen direkt in der Hauptstadt beherbergt und bewirtet, um sie besser kontrollieren und verwalten zu können.
 
-#civ_governors_n
-Gouverneure
 
-#civ_governors_dscr
-Amtsträger mit der Befugnis, Provinzen zu regieren.
+#civ_court_n#1
+Hof
 
-#civ_senate_n
-Senat
+#civ_currency_dscr#1
+Ist eine wertvolle Referenz für den Austausch und dient als Einheit für die Wertbestimmung.
 
-#civ_senate_dscr
-Eine Versammlung von Staatsporcos, die für die Interessen des Volkes handeln.
+#civ_currency_n#1
+Währung
 
-#civ_prtctor_n
-Beschützer des Volkes
+#civ_democracy_dscr#1
+Die Regierungsform der direkten Demokratie in der Staatsbürger wählen und Entscheidungen direkt treffen, und in der die Mehrheit eintscheidet und es weder einen Anführer noch Vertreter des Volkes gibt.
 
-#civ_prtctor_dscr
-"Ich regiere, weil ich für den Schutz der Schweine verantwortlich bin."
+#civ_democracy_n#1
+Demokratie
 
-#civ_superior_n
-Vorgesetzter Anführer
+#civ_citystate_n#1
+Stadtstaat
 
-#civ_superior_dscr
-"Ich regiere, weil ich überlegen bin."
+#civ_citystate_dscr#1
+Die Verwaltung ist zentralisiert und um eine einzige Stadt herum organisiert.
 
-#civ_divine_n
-Göttlicher Führer
 
-#civ_divine_dscr
+#civ_divine_dscr#1
 "Ich regiere, weil ich ein Gott bin."
 
-#civ_divinerep_n
+#civ_divine_n#1
+Göttlicher Anführer
+
+#civ_divinerep_dscr#1
+"Ich regiere, weil ich von den Göttern auserwählt wurde."
+
+#civ_divinerep_n#1
 Göttlicher Vertreter
 
-#civ_divinerep_dscr
-"Ich regiere, weil ich von den Göttern auserwählt werde."
+#civ_fairxchang_dscr#1
+Sofortiger und gegenseitiger Austausch von gleichwertigen Gütern oder Dienstleistungen.
 
-#civ_comgood_n
-Gemeinwohl
+#civ_fairxchang_n#1
+Fairer Austausch
 
-#civ_comgood_dscr
-"Ich regiere für das Volk."
+#civ_gifteco_dscr#1
+Eine Form des Austausches, bei der Wertsachen nicht gehandelt oder verkauft werden, sondern ohne ausdrückliche Vereinbarung für sofortige oder zukünftige Belohnungen gegeben werden.
 
-#civ_people_n
-Personenvertreter
+#civ_gifteco_n#1
+Geschenke-Wirtschaft
 
-#civ_people_dscr
-"Ich regiere im Namen des Volkes."
+#civ_lawmk_dscr#1
+Eine Einrichtung für Angestellte des Staates, die auf Gesetzgebung spezialisiert sind.
 
-#civ_tax_n
-Besteuerung
+#civ_lawmk_n#1
+Gesetzgebung
 
-#civ_tax_dscr
-Finanzielle Belastungen für die Steuerzahler durch den Staat.
+#civ_leadership_dscr#1
+Ein anerkannter Anführer, der sie alle regiert.
 
-#civ_seizem_n
-Materialien erfassen
+#civ_leadership_n#1
+Führung
 
-#civ_seizem_dscr
-Beschlagnahme Baumaterialien von der Bevölkerung, anstatt für sie zu bezahlen. Ein Übermaß davon könnte deiner Wirtschaft schaden.
+#civ_localchief_dscr#1
+Die Organisation lokaler Verwaltungen unter einer zentralen Regierung, erlaubt mehrere Regionale Zentren zu kontrollieren.
 
-#civ_statepriv_n
-Privilegien
+#civ_localchief_n#1
+Regionale Verwaltung
 
-#civ_statepriv_dscr
-Privilegien für die Führung deiner Regierung, indem du ihnen einen Prozentsatz des Reichtums eines Territoriums von Rechts wegen gewährst.
+#civ_minist_dscr#1
+Ein Rat von Staatsporcos, der bedeutende öffentliche Ämter innehat und Entscheidungen über die Politik unter gegenseitiger Abstimmung trifft und umsetzt.
 
-#civ_statesal_n
-Staatsbedienstete
-
-#civ_statesal_dscr
-Staatsangestellte werden direkt vom Staat angestellt und bezahlt und dienen in verschiedenen offiziellen Gebäuden wie Verwaltung oder Schulen.
-
-#civ_parl_n
-Parlament
-
-#civ_parl_dscr
-Eine Versammlung von Volksvertretern.
-
-#civ_minist_n
+#civ_minist_n#1
 Ministerium
 
-#civ_minist_dscr
-Ein Rat von Staatsporcos, der bedeutende öffentliche Ämter innehat und Entscheidungen über die Politik in Verbindung miteinander trifft und durchführt.
+#civ_olig_dscr#1
+"Ich regiere für die Eliten."
 
-#civ_ration_n
-Lebensmittelrationierung
+#civ_olig_n#1
+Für die Eliten
 
-#civ_ration_dscr
-Die Rationierung von Lebensmitteln reduziert den Nahrungsmittelverbrauch jedes Porcos. In Zeiten der Nahrungsmittelknappheit hilft es, den Zugang aller zu Lebensmitteln zu verbessern.
+#civ_oligbribes_dscr#1
+Bietet Geschenke und Zahlungen an einflussreiche Oligarches, um politische Unterstützung zu erhalten.
 
-#civ_agrisav_n
-Saatgutlagerung
+#civ_oligbribes_n#1
+Politische Bestechungsgelder
 
-#civ_agrisav_dscr
-Verhindert, dass ein Teil deiner landwirtschaftlichen Nahrungsmittelproduktion direkt verteilt oder verbraucht wird, um Saatgut zu sparen und neue Felder zu schaffen.
+#civ_paidrsrch_dscr#1
+Erforscher von Projekten werden vom Staat proportional zu ihrem aktuellen Wohlstand bezahlt und reduzieren nicht mehr die Arbeitskräfte in den Gebäuden, in denen sie arbeiten.
 
-#civ_subv_n
-Subvention
-
-#civ_subv_dscr
-Eine staatliche Beihilfe, die jeder Porco einer bestimmten Gruppe von Arbeitern erhält und deren Einkommen erhöht.
-
-#civ_paidrsrch_n
+#civ_paidrsrch_n#1
 Bezahlte Forscher
 
-#civ_paidrsrch_dscr
-Projektforscher werden vom Staat proportional zu ihrem aktuellen Vermögen bezahlt und reduzieren nicht mehr die Arbeitskräfte in den Gebäuden, in denen sie arbeiten.
+#civ_people_dscr#1
+"Wir regieren im Namen des Volkes."
+
+#civ_people_n#1
+Vertreter des Volkes
+
+#civ_prtctor_dscr#1
+"Ich regiere, weil ich für den Schutz der Schweine verantwortlich bin."
+
+#civ_prtctor_n#1
+Beschützer des Volkes
+
+#civ_ration_dscr#1
+Die Rationierung von Lebensmitteln reduziert den Nahrungsmittelverbrauch jedes Porcos. In Zeiten der Nahrungsmittelknappheit hilft es, den Zugang aller zu Lebensmitteln zu verbessern.
+
+#civ_ration_n#1
+Lebensmittelrationierung
+
+#civ_repmoney_dscr#1
+Eine Währung, die einen Anspruch auf eine Ware darstellt, anstatt selbst Ware zu sein.
+
+#civ_repmoney_n#1
+Repräsentatives Geld
+
+#civ_republic_dscr#1
+Die Staatsform einer Republik, in der Staatsschweine im Namen des Volkes regieren.
+
+#civ_republic_n#1
+Republik
+
+#civ_statepriv_dscr#1
+Privilegien für die Führung deiner Regierung, gewährt ihnen Anrecht auf einen Prozentsatz des Reichtums eines Gebietes.
+
+#civ_statepriv_n#1
+Privilegien
+
+#civ_statesal_dscr#2
+Alle Klassen an Angestellten des Staates erhalten ein fixes Geahlt vom Staat für ihre Arbeit.
+
+#civ_statesal_n#2
+Staats-Gehälter
+
+#civ_subv_dscr#1
+Eine staatliche Beihilfe, die jeder Porco einer bestimmten Gruppe von Arbeitern erhält um deren Einkommen zu erhöhen.
+
+#civ_subv_n#1
+Subvention
+
+#civ_superior_dscr#1
+"Ich regiere, weil ich überlegen bin."
+
+#civ_superior_n#1
+Überlegener Anführer
+
+#civ_tax_dscr#1
+Finanzielle Belastungen für die Steuerzahler durch den Staat.
+
+#civ_tax_n#1
+Besteuerung
+
+#civ_treasury_dscr#1
+Trennung der Finanzen des Anführers und des Staates, die Staatskasse verwaltet die Finanzen des Staates.
+
+#civ_treasury_n#1
+Staatskasse
+
+#civ_tributes_dscr#2
+Eine frühe Form von Steuer in der der Staat einen Anteil aller in seinem Land produzierten Agrargüter für sich beansprucht.
+
+#civ_tributes_n#2
+Agrarabgaben
+
+#cltr_consume_dscr#1
+Der kulturelle Brauch deiner Bevölkerung, ein bestimmtes Gut zu konsumieren. Erlaubt Nachfrage in der Bevölkerung und den Verkauf dieses Guts and die Bevölkerung.
+
+#cltr_consume_n#1
+Konsum von Gütern
+
+#cltr_resprod_dscr#1
+Die kulturelle Tradition von Produktion schaltet Produktion einer spezifischen Ressource frei. Weitere Stufen verbessern Produktionseffizienz und reduzieren ggf Materialkosten.
+
+#cltr_resprod_n#1
+Ressurcen-Produktion
+
+#cltr_resqual_dscr#1
+Die kulturelle Tradition des Handwerks eine spezifische Ressource herzustellen verbessert Produktionsqualität dieser Ressource.
+
+#cltr_resqual_n#1
+Ressourcen-Spezialisierung
+
+#civ_prefcts_n#1
+Präfekte
+
+#civ_prefcts_dscr#1
+Abgesandte des Staates, die in die Gebiete Untergebener gesandt werden um den Staat zu repräsentieren und um Kontrolle, Kommunikation, und Verwaltung zu verbessern.
+
+#civ_tribcouncl_n#1
+Stammesrat
+
+#civ_tribcouncl_dscr#1
+Rechtssprechung erfolgt durch eine Ratsversammlung aller Familienvorsteher des Stammes (schaltet Stammesrat-Gebäude frei).
+
+#civ_codelaw_n#1
+Gesetzeskodex
+
+#civ_codelaw_dscr#1
+Rechtssprechung erfolgt durch einen geschriebenen Gesetzteskodex und wird von Magistraten durchgesetzt (schaltet Magistrat-Gebäude frei). 
+
+#civ_banditextor_n#1
+Wegelagerei
+
+#civ_banditextor_dscr#1
+Ein korrupter Staat schaut weg während organisierte Verbrecherbanden die Bevölkerung erpressen, im Gegenzug erhält der Staat einen fairen Anteil ihrer Beute.
+
+#civ_terrorpatrl_n#1
+Terror Patrouillen
+
+#civ_terrorpatrl_dscr#1
+Patrouillen von Soldaten brechen Nachts in Häuser ein um zu plündern und die Bevölkerung zu terrorisieren, so dass diese in Angst und Schrecken lebt und ständig an die Präsenz der Armee erinnert wird.
+
+#civ_sumexec_n#1
+Summary executions
+Massenhinrichtungen
+
+#civ_sumexec_dscr#1
+Die Gewohnheit öffentliche Hinrichtungen mehrerer Kleinverbrecher durchzuführen um ein Exempel zu statuieren und der Bevölkerung Angst einzuflösen. 
+
+#civ_nepotism_n#1
+Nepotism TODO
+Vetternwirtschaft
+
+#civ_nepotism_dscr#1
+Favoritism granted to the Leader's relatives for position of power in the society resulting in more loyal Oligarchs at the cost of increased conflict.
+
+#civ_bannish_n#1
+Verbannung
+
+#civ_bannish_dscr#1
+Unerwünschte Stammesmitglieder werden aus der Stadt verbannt, ihnen ist nicht gestattet zurückzukehren und ihre Familie wird in einer prekären Existenz zurückgelassen.
+
+#civ_bloodfeuds_n#1
+Blutfehden
+
+#civ_bloodfeuds_dscr#1
+Das Recht, Blutfehden zu führen: Wird jemand getötet, ihm Unrecht getan oder seine Ehre verletzt, so dürfen dessen Verwandte gewaltsam Vergeltung ausüben gegen die Schuldigen oder deren Verwandte.
+
+#civ_delegflab_n#1
+Delegierte Zwangsarbeit
+
+#civ_delegflab_dscr#1
+Die Reichen können sich ihrer Zwangsarbeit entziehen, indem sie andere – meist die Armen – dafür bezahlen, die Arbeit an ihrer Stelle zu verrichten.
 
